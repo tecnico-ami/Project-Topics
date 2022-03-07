@@ -57,4 +57,8 @@ Since the objects can convey private information about its owner, the informatio
 
 ----
 
+## 4. Assisted living
+
+----
+
 [AmI Faculty](mailto:meic-ami@disciplinas.tecnico.ulisboa.pt)
