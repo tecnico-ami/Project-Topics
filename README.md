@@ -59,6 +59,38 @@ Since the objects can convey private information about its owner, the informatio
 
 ## 4. Assisted living
 
+Supporting living and aging in the home, particularly for the elder or people with disabilities or specific diseases
+Control medication taking;
+Notify of dangerous events (oven is on for too long, streetdoor was left open);
+Control people activity (Normal? Not moving for too long? Pressed emergency button? Not reacting to an event?)
+
+----
+
+## 5. Automating smart behaviors
+
+Smart Classroom that adapts its lights and temperature accordingly to the number and location of students; supports different types of classes (interactive, video-projection, …)
+Smart lighting for a street, park or a city block
+Access control system based on RFID (or…)
+Multi-sensor and actuator board (detects presence, temperature, light intensity, ..., and controls on/off outputs, LED lighting, etc)
+Simulator of a home (allow users to define a profile with their preferences/requirements; perform actions accordingly with whom is in a specific room; deal with conflicts when different people is in the same room)
+
+----
+
+## 6. DomoBus related projects
+
+Definition of a DomoBus system (generates the XML specification)
+Web / Mobile user-interface (monitor and interact with any DomoBus system)
+Offer an IoT solution for DomoBus (MQTT based)
+Specification of automation rules for a home (define how the home behaves)
+Gateway DomoBus↔X10
+
+----
+
+## 7. Energy management
+
+Reduce electricity bill, shift loads to hours when electricity is cheaper, control loads to reduce peak consumption
+Measure and balance energy production (from a solar panel) with energy consumption; manage loads using a new model: loads request to turn on and wait for an autorization.
+
 ----
 
 [AmI Faculty](mailto:meic-ami@disciplinas.tecnico.ulisboa.pt)
