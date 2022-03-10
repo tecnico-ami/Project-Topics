@@ -131,8 +131,6 @@ You can simulate an individual car or a road environment with multiple cars.
   - [Veins](https://veins.car2x.org/features/) -- The open source vehicular network simulation framework.
   - [OMNeT++](https://omnetpp.org/) -- Discrete Event Simulator
 
-----
-
 ### Energy management
 
 The energy management of a system allows it to reduce the electricity bill, to shift loads to hours when electricity is cheaper, control loads to reduce peak consumption.
@@ -168,6 +166,8 @@ The overall status of the system must be presented on a management cockpit.
 <!--
 (The lamp cells implemented by a group of students must be interoperable with lamp cells implemented by any other group.)
 -->
+
+----
 
 ## 4. Assisted Living
 
@@ -210,8 +210,6 @@ If a remote server is used, it should not be fully trusted. For example, the sol
 - [My Ki system](https://myki.watch/en/)
 - EASYmaxx [Smartwatch](https://www.amazon.de/EASYmaxx-Smartwatch-Armbanduhr-Sprachnachrichten-Standortlokalisierung-blau/dp/B07BZ292D9) and [iOS app](https://apps.apple.com/us/app/easymaxx-smartwatch/id1375209119)
 - <https://www.google.com/maps/about/partners/indoormaps/>
-
-----
 
 ### Scale for the blind
 
