@@ -36,7 +36,10 @@ A board like the ESP32 has sensors and actuators that can work to support many s
 More interesting, these services can be controlled by the home owner - and family members, and some special guests - from a mobile phone interface.
 The ESP32 boards also have Wi-Fi and Bluetooth radios and, using them, can communicate with smartphones.
 
-Different users can have different profiles and preferences/requirements, so it is necessary to perform actions accordingly with whom is in a specific room; and also, deal with conflicts when different people are in the same room.
+Different users can have different profiles and preferences/requirements, so it is necessary to perform actions accordingly with whom is in a specific room.
+However, this means that we have to deal with conflicts when different people are in the same room and have different preferences.
+This *conflict management* is a significant challenge and can be addressed with different approaches, each with advantages and disadvantages.
+For example: priorities; privileges; like/hate classification; order of entrance; mean values.
 
 **References:**
 
