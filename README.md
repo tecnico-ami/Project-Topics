@@ -47,6 +47,14 @@ For example: priorities; privileges; like/hate classification; order of entrance
 - <https://developer.android.com/studio>
 - <https://flutter.dev/>
 
+### Smart Attic
+
+Consider the last floor of a building, with the roof.
+This is usually a storage area for personal goods, belonging to different owners of apartments in the building.
+The smart attic system could have both a _security_ aspect, making sure that unauthorized accesses are recorded; 
+and also a _safety_ aspect, with humidity and light sensors, to make sure that a problem in the roof, that lets light or water in, is detected and located, so it can be fixed ASAP.
+All of the apartment owners should be able to access the monitoring console on their phone or computer, and also to receive alarm notifications, when something is wrong.
+
 ### DomoBus
 
 The DomoBus system can represent a smart home installation, and can be configured from a specification in XML format.
@@ -79,6 +87,13 @@ The present work can implement a robot control system and detection sensors, tha
 One of the challenges is to make sure the latency of detection and actuation is such that robots do not need to stop (and also, do not hit an obstacle).
 
 Different architectures can be considered, with local components, components near-by (fog computing), or control software away (cloud computing).
+
+### Safe Store
+
+Consider a storage and archival facility, where we want to make sure that stored goods, in boxes, are not exposed to significant humidity, heat, and light; as these three can damage stored goods, both metallic, or paper documents.
+
+The present work can implement a monitoring with different sensors, and also provide an alert system.
+It could even do preventive maintenance of the environment conditions.
 
 ### Track and Trace middleware
 
